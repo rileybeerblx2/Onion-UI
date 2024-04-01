@@ -1,10 +1,7 @@
-# onionLib
+# Onion UI
 
-Onion library is a free ui library that I made
+Onion UI
 
-This is my first ui lib that i have made, and I plan to make more in the future
-
-Made by .tip5 on discord
 
 # Features
 Buttons
